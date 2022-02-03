@@ -1,0 +1,33 @@
+h1{
+    font-weight: 450;
+}
+.ft-bg{
+    background-color: #2f3439;
+}
+body{
+    background-color: #d2d5db;
+}
+.title-txt{
+    color: rgb(218, 149, 1);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* products.html*/
+.product-txt{
+    color: #7a32c3;
+    font-weight: bold;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+.product-price{
+    background-color: #676a67;
+    color: #fff;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 0px;
+    padding-bottom: 3px;
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 5px;
+}
