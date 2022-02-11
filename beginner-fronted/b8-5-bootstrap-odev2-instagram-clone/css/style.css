@@ -1,0 +1,29 @@
+.input-icon{
+    background:  no-repeat left;
+    background-image: url("src/image/instagram2.png");
+}
+.ins-icon{
+    font-size: 23px;
+}
+.story-img{
+    width: 75px;
+    border:4px solid rgb(216, 49, 49);
+    border-radius: 50px;
+}
+.profile-img{
+    width: 40px;
+    border-radius: 40px;
+}
+.commend-img{
+    width: 23px;
+    border-radius: 25px;
+    border:0px solid ;
+}
+.suggestion-img{
+    width: 35px;
+    border-radius: 25px;
+    border:0px solid ;
+}
+.suggestion-text{
+    font-size: 15px;
+}
