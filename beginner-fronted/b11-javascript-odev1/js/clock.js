@@ -25,3 +25,4 @@ const showTime = ()=>{
 setInterval(showTime,500)
 
 
+console.log("merhaba")
